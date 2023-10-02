@@ -1,16 +1,18 @@
 # tokokita
 
-A new Flutter project.
+<img src="https://github.com/MBAQIRAP/tugas4/assets/92967062/1a4dd9b0-b808-4845-8636-5a7fe2f89e82" alt="Login" width="200"/>
 
-## Getting Started
+<img src="https://github.com/MBAQIRAP/tugas4/assets/92967062/3ac14b51-0185-4f76-8f49-dd1d0432cab1" alt="Registerasi" width="200"/>
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/MBAQIRAP/tugas4/assets/92967062/1c16503e-3f1f-4173-be52-7d0d69288e25" alt="ProdukPage" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/MBAQIRAP/tugas4/assets/92967062/fb7e26b7-81eb-407d-93e9-63b4183c028e" alt="ProdukPage" width="200"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/MBAQIRAP/tugas4/assets/92967062/1cea0de8-6024-4bb4-8a6c-cce6a2871bf5" alt="ProdukPageUpdate" width="200"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/MBAQIRAP/tugas4/assets/92967062/1329164a-f11e-4417-a1e5-79d421685f6a" alt="ProdukPageTambah" width="200"/>
+
+
+
+
+
